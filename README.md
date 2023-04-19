@@ -6,14 +6,14 @@ With the Sanitation Network Circle Newsfeed, news can be exchanged within the ne
 We ask for the following notice within the display of the Network Circle Newsfeed.  
 Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org**
   
-  
+---    
 In this documentation, you will learn  
 + understand the basic structure of the RSS  
 + add useful elements to the feed using the configuration file  
 + how to design your feed according to our guidelines and examples  
 + create your own feed for  
   
-
+  
 # Integration of the feed
 
 You can find the current feed at the following URL and thus embed it in an existing web application.  
