@@ -8,10 +8,10 @@ Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.
   
   
 In this documentation, you will learn  
-1.understand the basic structure of the RSS  
-2.add useful elements to the feed using the configuration file  
-3.how to design your feed according to our guidelines and examples  
-4.create your own feed for  
++ understand the basic structure of the RSS  
++ add useful elements to the feed using the configuration file  
++ how to design your feed according to our guidelines and examples  
++ create your own feed for  
   
 
 # Integration of the feed
