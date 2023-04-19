@@ -73,9 +73,9 @@ The configuration file provides important information about the Sanitation Netwo
 ### Sources - additional partner information
 Within this object all participating partner organizations can be found. These abbreviations (orgAbbrev) are outputs in the source tag of the items in the newsfeed and can thus also be filtered. 
 
-Here you can find the name and a description <orgDescription> of the partner organization, the link to the website <orgUrl> and a URL to the logo <orgLogo> of the organization, which you can use on your website. 
+Here you can find the name and a description [orgDescription] of the partner organization, the link to the website [orgUrl] and a URL to the logo [orgLogo] of the organization, which you can use on your website. 
   
-In addition, the number of current posts <orgActualPosts> can be found within the NCN feed from this source and also the timestamp <orgLastBuildDate> of the last update.  
+In addition, the number of current posts [orgActualPosts] can be found within the NCN feed from this source and also the timestamp [orgLastBuildDate] of the last update.  
       
 In addition, it is possible to retrieve an explicit source via URL. api.susana.org/newscircle/rss/{source}.rss.  
 
@@ -177,10 +177,10 @@ After completion and provision of your RSS, it will be added to the configuratio
 ## 3.1. Header of the feed
 The header of your channel element must contain at least two parameters. The other parameters are based on the general specifications for the structure of an RSS feed and are not mandatory for the import into the NCN. Required are:
 
-**<pubDate>**  
+**[pubDate]**  
 Date when the feed was published  
 
-**<lastBuildDate>**  
+**[lastBuildDate]**  
 Date of the last update of your feed  
   
     
