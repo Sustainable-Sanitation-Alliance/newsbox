@@ -111,7 +111,8 @@ The description should be shortened to 350 characters. Either the title is to be
 [ Title ]  
 [ SOURCE ]  • [ category ] - [ Description ]  
 
-This could look like the following example article in the news feed:    
+This could look like the following example article in the news feed:  
+  
   
 *Mon, 10 Apr 2023 by Mia Wong*  
 **The Extremes of Good and Evil**  
