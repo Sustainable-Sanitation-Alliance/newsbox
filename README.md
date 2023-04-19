@@ -103,20 +103,20 @@ We recommend a presentation according to the following scheme:
 
 [ pubDate ] by [ author ]  
 [ title ]  
-[ source ]  • [ description ]  
+[ source ]: [ description ]  
   
 The description should be shortened to 350 characters. Either the title is to be linked or the read more button at the end of the post. The link to the website providing the entry is mandatory! If you want the category to be displayed as well, we recommend the following scheme.  
   
 [ pubDate ] by [ author ]  
 [ Title ]  
-[ SOURCE ]  • [ category ] - [ Description ]  
+[ SOURCE ] • [ category ]: [ Description ]  
 
 This could look like the following example article in the news feed:  
   
   
 *Mon, 10 Apr 2023 by Mia Wong*  
 **The Extremes of Good and Evil**  
-SUSANA • Events - But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. 
+SUSANA • Events: But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. 
   
   
   
