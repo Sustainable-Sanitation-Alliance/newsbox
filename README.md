@@ -31,6 +31,11 @@ https://www.drupal.org/docs/8/core/modules/aggregator/overview
 **PHP**  
 https://www.php.net/manual/en/function.simplexml-load-string.php
   
+- - -  
+The newsbox feed follows the RSS2.0 standards wich can be found here:  
+https://validator.w3.org/feed/docs/rss2.html  
+
+- - -  
   
 You can find the current feed at the following URL and thus embed it in an existing web application.  
 https://newsbox.susana.org/rss/sanitation_circle.rss
