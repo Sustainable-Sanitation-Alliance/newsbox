@@ -80,11 +80,20 @@ In addition, it is possible to retrieve an explicit source via URL. api.susana.o
 
 ### Categories
 
-**categoryName** Name of the yategory  
-**categoryDescription** Description of the category  
-**categoryFeedUrl** The URL for to get the RSS feed only with items of this category 
-**categoryActualPosts** Number of actual items inside this category feed  
-**categoryLastBuildDate** Timestamp of the latest post inside the category feed
+**categoryName**  
+Name of the yategory  
+  
+**categoryDescription**  
+Description of the category   
+
+**categoryFeedUrl**  
+The URL for to get the RSS feed only with items of this category 
+  
+**categoryActualPosts**  
+Number of actual items inside this category feed  
+  
+**categoryLastBuildDate**  
+Timestamp of the latest post inside the category feed
 
 ### Channels
 
