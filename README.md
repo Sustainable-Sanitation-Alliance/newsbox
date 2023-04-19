@@ -80,19 +80,25 @@ In addition, it is possible to retrieve an explicit source via URL. api.susana.o
 
 ### Categories
 
-**categoryName** Text  
-  
-**categoryDescription** Text  
-  
-**categoryFeedUrl**  
-  
-**categoryActualPosts**  
-  
-**categoryLastBuildDate** 
+**categoryName** Name of the yategory  
+**categoryDescription** Description of the category  
+**categoryFeedUrl** The URL for to get the RSS feed only with items of this category 
+**categoryActualPosts** Number of actual items inside this category feed  
+**categoryLastBuildDate** Timestamp of the latest post inside the category feed
 
+### Channels
 
+Note: The object identifier contains the alias name of the channel.  
 
-## Channels & Categories 
+**channelName** Name of the channel  
+**channelDescription** Description of the channel  
+**channelFeedUrl** The URL for to get the RSS feed only with items of this channel 
+**channelActualPosts** Number of actual items inside this channel feed  
+**channelLastBuildDate** Timestamp of the latest post inside the channel feed
+  
+  
+    
+## Targeted API calls to categories and channels
 
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
