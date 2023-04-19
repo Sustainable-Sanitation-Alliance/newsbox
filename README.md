@@ -4,8 +4,8 @@ With the Sanitation Network Circle NE, news can be exchanged within the network 
   
 ---   
 **Copyright notice: 
-We ask for the following copyright link within the display of the Network Circle Newsfeed.  
-Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org**
+We ask for the following copyright link within the display of the Network Circle Newsbox.  
+Source: Sanitation Network Circle Newsbox, provided by SuSanA - https://newsbox.susana.org**
   
 ---    
 In this documentation, will show you to  
@@ -18,10 +18,10 @@ In this documentation, will show you to
 # 1. Integration of the feed
 
 You can find the current feed at the following URL and thus embed it in an existing web application.  
-https://api.susana.org/newscircle/rss/sanitation_circle.rss
+https://newsbox.susana.org/rss/sanitation_circle.rss
 
 The extended description and documentation of available channels and categories can be found in the current configuration file  
-https://api.susana.org/newscircle/config.json
+https://newsbox.susana.org/config.json
 
 Until the API is released in early May 2023, please use the example files provided in this documentation for development purposes
 - example_output.rss
@@ -53,7 +53,7 @@ Abbreviation of the organization providing the entry. **Important note:** The ab
 Name of the author who wrote the article. We ask that this be taken into account in the output.
 
 ### category ###
-Category of the entry. You can use it to filter the output of the feed on your website by these categories. **Note:** All available categories can be found in config.json. You can also generate a separate explicit RSS feed for each category using a URL. Use the following syntax in the call https://api.susana.org/newscircle/rss/category/{category}.rss.  
+Category of the entry. You can use it to filter the output of the feed on your website by these categories. **Note:** All available categories can be found in config.json. You can also generate a separate explicit RSS feed for each category using a URL. Use the following syntax in the call https://newsbox.susana.org/rss/category/{category}.rss.  
 You can also find all URLs within the configuration file.
 
 ### guid ###
@@ -75,7 +75,7 @@ Here you can find the name and a description [orgDescription] of the partner org
   
 In addition, the number of current posts [orgActualPosts] can be found within the NCN feed from this source and also the timestamp [orgLastBuildDate] of the last update.  
       
-In addition, it is possible to retrieve an explicit source via URL. api.susana.org/newscircle/rss/{source}.rss.  
+In addition, it is possible to retrieve an explicit source via URL. newsbox.susana.org/rss/{source}.rss.  
 
 
 ### Categories
@@ -121,10 +121,10 @@ Timestamp of the latest post inside the channel feed
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
 To do this, use the category as the file name for the RSS feed within the URL according to the following scheme.  
-https://api.susana.org/newscircle/rss/category/[categoryName].rss
+https://newsbox.susana.org/rss/category/[categoryName].rss
 
 And for the channels the scheme:  
-https://api.susana.org/newscircle/rss/channels/[example_channel_alias].rss  
+https://newsbox.susana.org/rss/channels/[example_channel_alias].rss  
   
     
 	  
