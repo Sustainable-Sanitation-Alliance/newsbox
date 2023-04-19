@@ -19,17 +19,18 @@ In this documentation, will show you to
 
 To integrate the network circle newsbox within your website, the provided RSS feed needs to be integrated within the website. For all common content management systems there are either native implementations or extensions that allow the display of RSS feeds on a website.
 
-**Joomla  
-Link
+**Joomla**  
+https://extensions.joomla.org/tags/rss-readers/  
   
-**Wordpress  
-Link
+**Wordpress**  
+https://www.wpbeginner.com/wp-tutorials/how-to-display-any-rss-feed-on-your-wordpress-blog/  
   
-**Drupal  
-Link
+**Drupal**  
+https://www.drupal.org/docs/8/core/modules/aggregator/overview  
   
-**Contao** 
-Link
+**PHP**  
+https://www.php.net/manual/en/function.simplexml-load-string.php
+  
   
 You can find the current feed at the following URL and thus embed it in an existing web application.  
 https://newsbox.susana.org/rss/sanitation_circle.rss
