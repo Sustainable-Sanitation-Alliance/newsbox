@@ -69,6 +69,12 @@ Optional linking of an image / video file via a URL within the respective entry.
 The configuration file provides important information about the Sanitation Network Circle Neewsfeed in JSON format.
 
 ### Sources - additional partner information
+Within this object all participating partner organizations can be found. These abbreviations are output in the source tag of the items and can thus also be filtered. 
+
+Here you can find the name and a description of the partner organization, the link to the website and a URL to the logo of the organization, which you can use on your website.  
+
+In addition, it is possible to retrieve an explicit source via URL. api.susana.org/newscircle/rss/{source}.rss.  
+
 
 ### Categories
 
@@ -90,7 +96,7 @@ You can also retrieve the categories and channels named in the current config.js
 
 ---  
 
-# Design the newsfeed
+# Designing the newsfeed output
 
 The following fields should be displayed within the feed on the web page.
 Source (Abbreviation of the partner organization) 
