@@ -15,7 +15,7 @@ In this documentation, you will learn
 + how to participate and create your own feed   
   
   
-# 1) Integration of the feed
+# 1. Integration of the feed
 
 You can find the current feed at the following URL and thus embed it in an existing web application.  
 https://api.susana.org/newscircle/rss/sanitation_circle.rss
@@ -27,10 +27,10 @@ Until the API is released in early May 2023, please use the example files provid
 - example_output.rss
 - example_config.json
 
-## 1.1) Header of the feed
+## 1.1. Header of the feed
 In the header of a channel you will find the title, a short description and the time of the last update of the channel.
   
-## 1.2) Item tags inside the feed
+## 1.2. Item tags inside the feed
 The following information is available within an item of a channel
   
 ### title ### 
@@ -64,7 +64,7 @@ Optional linking of an image / video file via a URL within the respective entry.
 
 
 
-## 1.3) Extended configuration parameters
+## 1.3. Extended configuration parameters
 
 The configuration file provides important information about the Sanitation Network Circle Neewsfeed in JSON format.
 
@@ -107,7 +107,7 @@ Note: The object identifier contains the alias name of the channel.
   
   
     
-## 1.4) Targeted API calls to categories and channels
+## 1.4. Targeted API calls to categories and channels
 
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
@@ -122,7 +122,7 @@ https://api.susana.org/newscircle/rss/channels/[example_channel_alias].rss
 	  
 ---  
 
-# 2) Designing the newsfeed output
+# 2. Designing the newsfeed output
 
 The following fields should be displayed within the feed on the web page.
 Source (Abbreviation of the partner organization) 
@@ -154,7 +154,7 @@ SUSANA • Events: But I must explain to you how all this mistaken idea of denou
   
 ---  
 
-# 3) Provide your feed
+# 3. Provide your feed
 You can participate in the RSS feed of the network by providing a corresponding RSS feed within your own website under a fixed URL, which will then be integrated through the interface of the NCN.  
   
 To do this, contact the SuSanA secretariat in advance by mail (info@susana.org) to check whether your organization meets the requirements and criteria to be included in the network newsfeed.   
@@ -163,10 +163,10 @@ After completion and provision of your RSS, it will be added to the configuratio
 
 
 
-## 3.1) Header of the feed
+## 3.1. Header of the feed
 In the header of a channel you will find the title, a short description and the time of the last update of the channel.
   
-## 3.2) Item tags inside the feed
+## 3.2. Item tags inside the feed
 The following information is available within an item of a channel
   
 ### title ### 
