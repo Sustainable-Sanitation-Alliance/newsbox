@@ -77,3 +77,12 @@ The configuration file provides important information about the Sanitation Netwo
 ## Channels & Categories 
 
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
+
+---
+
+#Provide your feed
+You can participate in the RSS feed of the network by providing a corresponding RSS feed within your own website under a fixed URL, which will then be integrated through the interface of the NCN.  
+  
+To do this, contact the SuSanA secretariat in advance by mail (info@susana.org) to check whether your organization meets the requirements and criteria to be included in the network newsfeed.   
+  
+After completion and provision of your RSS, it will be added to the configuration file and played out globally on all participating websites. For this we need your logo, which we provide and store in predefined formats on our web service.
