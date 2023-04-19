@@ -96,6 +96,15 @@ In addition, it is possible to retrieve an explicit source via URL. api.susana.o
 
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
+To do this, use the category as the file name for the RSS feed within the URL according to the following scheme.  
+https://api.susana.org/newscircle/rss/category/[categoryName].rss
+
+And for the channels the scheme:  
+https://api.susana.org/newscircle/rss/channels/[example_channel_alias].rss  
+  
+    
+	  
+	  
 ---  
 
 # Designing the newsfeed output
