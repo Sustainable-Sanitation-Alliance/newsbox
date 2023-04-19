@@ -4,7 +4,7 @@ With the Sanitation Network Circle Newsfeed, news can be exchanged within the ne
   
 ---   
 **Copyright notice: 
-We ask for the following notice within the display of the Network Circle Newsfeed.  
+We ask for the following copyright link within the display of the Network Circle Newsfeed.  
 Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org**
   
 ---    
