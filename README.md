@@ -3,10 +3,10 @@
 
 With the Sanitation Network Circle Newsfeed, news can be exchanged within the network and published bundled on websites. The feed can be accessed via the SuSanA website and can be displayed with any feed reader and adapted to the layout of the website.
 
-**Copyright notice: 
-We request the following notice within the Network Circle news feed display. 
+**Copyright notice**
+We request the following notice within the Network Circle news feed display
+Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org
 
-_Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org_**
 
 You are welcome to use fol
 
