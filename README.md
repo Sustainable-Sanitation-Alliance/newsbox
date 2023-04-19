@@ -7,11 +7,11 @@ We ask for the following notice within the display of the Network Circle Newsfee
 Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org**
   
   
-In this documentation, you will learn
-2. understand the basic structure of the RSS
-3. add useful elements to the feed using the configuration file
-4. how to design your feed according to our guidelines and examples
-5. create your own feed for
+In this documentation, you will learn  
+1.understand the basic structure of the RSS  
+2.add useful elements to the feed using the configuration file  
+3.how to design your feed according to our guidelines and examples  
+4.create your own feed for  
   
 
 # Integration of the feed
