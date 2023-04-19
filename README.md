@@ -80,7 +80,7 @@ You can also retrieve the categories and channels named in the current config.js
 
 ---
 
-#Provide your feed
+# Provide your feed
 You can participate in the RSS feed of the network by providing a corresponding RSS feed within your own website under a fixed URL, which will then be integrated through the interface of the NCN.  
   
 To do this, contact the SuSanA secretariat in advance by mail (info@susana.org) to check whether your organization meets the requirements and criteria to be included in the network newsfeed.   
