@@ -101,11 +101,20 @@ Timestamp of the latest post inside the category feed
 
 Note: The object identifier contains the alias name of the channel.  
 
-**channelName** Name of the channel  
-**channelDescription** Description of the channel  
-**channelFeedUrl** The URL for to get the RSS feed only with items of this channel 
-**channelActualPosts** Number of actual items inside this channel feed  
-**channelLastBuildDate** Timestamp of the latest post inside the channel feed
+**channelName**  
+Name of the channel  
+  
+**channelDescription**  
+Description of the channel  
+  
+**channelFeedUrl**  
+The URL for to get the RSS feed only with items of this channel  
+
+**channelActualPosts**  
+Number of actual items inside this channel feed   
+
+**channelLastBuildDate**  
+Timestamp of the latest post inside the channel feed
   
   
     
@@ -166,8 +175,16 @@ After completion and provision of your RSS, it will be added to the configuratio
 
 
 ## 3.1. Header of the feed
-In the header of a channel you will find the title, a short description and the time of the last update of the channel.
+The header of your channel element must contain at least two parameters. The other parameters are based on the general specifications for the structure of an RSS feed and are not mandatory for the import into the NCN. Required are:
+
+**<pubDate>**  
+Date when the feed was published  
+
+**<lastBuildDate>**  
+Date of the last update of your feed  
   
+    
+	  
 ## 3.2. Item tags inside the feed
 The following information is available within an item of a channel
   
