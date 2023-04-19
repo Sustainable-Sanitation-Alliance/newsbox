@@ -1,6 +1,6 @@
-# Sanitation Network Circle Newsfeed
+# Network Circle Newsbox (NCN)
 ### Documentation
-With the Sanitation Network Circle Newsfeed, news can be exchanged within the network and published bundled on websites. The feed can be accessed via the SuSanA website and can be displayed with any feed reader and adapted to the layout of the website.
+With the Sanitation Network Circle NE, news can be exchanged within the network and published bundled on websites. The feed can be accessed via the SuSanA website and can be displayed with any feed reader and adapted to the layout of the website.
   
 ---   
 **Copyright notice: 
@@ -174,7 +174,7 @@ After completion and provision of your RSS, it will be added to the configuratio
 
 
 
-## 3.1. Header of the feed
+## 3.1. Header of your RSS feed
 The header of your channel element must contain at least two parameters. The other parameters are based on the general specifications for the structure of an RSS feed and are not mandatory for the import into the NCN. Required are:
 
 **[pubDate]**  
@@ -185,7 +185,7 @@ Date of the last update of your feed
   
     
 	  
-## 3.2. Item tags inside the feed
+## 3.2. Item tags inside your RSS feed
 The following information is available within an item of a channel
   
 **title** 

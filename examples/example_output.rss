@@ -1,8 +1,8 @@
 <rss version="2.0">
 <channel>
-	<title>Example Sanitation Newsfeed</title>
+	<title>Example Sanitation Newsbox Feed </title>
 	<link>https://www.susana.org/</link>
-	<description>An example newsfeed you need to provide to participate in the sanitation news box circle. For testing and development only. Note: contains only placeholder data.</description>
+	<description>An example newsfeed you need to provide to participate in the sanitation newsbox circle. For testing and development only. Note: contains only placeholder data.</description>
 	<language>en-us</language>
 	<pubDate>Tue, 18 Apr 2023 10:21:03 GMT</pubDate>
 	<lastBuildDate>Tue, 18 Apr 2023 10:21:03 GMT</lastBuildDate>

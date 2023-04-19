@@ -27,9 +27,9 @@
             "orgActualPosts": 4,
             "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
         },
-        "FSMA": {
-            "orgName": "Faecal Sludge Management Alliance",
-            "orgAbbrev": "FSMA",
+        "SSWM": {
+            "orgName": "Sustainable Sanitation and Water Management Toolbox",
+            "orgAbbrev": "https://sswm.info",
             "orgDescription": "",
             "orgUrl": "https://fsm-alliance.org",
             "orgLogo": "https://www.susana.org/images/rss_example.jpg",
