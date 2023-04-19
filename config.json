@@ -1,0 +1,83 @@
+{
+    "product": "NCN Network Circle Newsbox",
+    "version": 0.4,
+    "description": "actual configruation file for the network newsbox circle",
+    "feedUrl": "https://www.susana.org/api/newscircle/rss/sanitation_circle.rss",
+    "organisationAbbrevations": [
+        "SUSANA",
+        "RWSN",
+        "FSMA"
+    ],
+    "organisations": {
+        "SUSANA": {
+            "name": "Sustainable Sanitation Alliance",
+            "abbrev": "SuSanA",
+            "url": "https://www.susana.org/",
+            "logo": "https://www.susana.org/images/rss_example.jpg",
+            "actualPosts": 3,
+            "lastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        },
+        "RWSN": {
+            "name": "Rural Water Supply Network",
+            "abbrev": "RWSN",
+            "url": "https://www.rural-water-supply-network.org/",
+            "logo": "https://www.susana.org/images/rss_example.jpg",
+            "actualPosts": 4,
+            "lastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        },
+        "FSMA": {
+            "name": "Faecal Sludge Management Alliance",
+            "abbrev": "FSMA",
+            "url": "https://fsm-alliance.org",
+            "logo": "https://www.susana.org/images/rss_example.jpg",
+            "actualPosts": 2,
+            "lastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        }
+    },
+    "categories": {
+        "news": {
+            "categoryName": "News",
+            "categoryDescription": "Sustainable Sanitation Alliance",
+            "categoryFeedUrl": "https://www.susana.org/api/newscircle/rss/category/news.rss",
+            "categoryActualPosts": 1,
+            "categoryLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        },
+        "events": {
+            "categoryName": "Events",
+            "categoryDescription": "Sustainable Sanitation Alliance",
+            "categoryFeedUrl": "https://www.susana.org/api/newscircle/rss/category/events.rss",
+            "categoryActualPosts": 1,
+            "categoryLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        },
+        "resources": {
+            "categoryName": "Resources",
+            "categoryDescription": "Sustainable Sanitation Alliance",
+            "categoryFeedUrl": "https://www.susana.org/api/newscircle/rss/category/resources.rss",
+            "categoryActualPosts": 1,
+            "categoryLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        },
+        "projects": {
+            "categoryName": "Projects",
+            "categoryDescription": "Sustainable Sanitation Alliance",
+            "categoryFeedUrl": "https://www.susana.org/api/newscircle/rss/category/projects.rss",
+            "categoryActualPosts": 1,
+            "categoryLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        },
+        "articles": {
+            "categoryName": "Articles",
+            "categoryDescription": "Sustainable Sanitation Alliance",
+            "categoryFeedUrl": "https://www.susana.org/api/newscircle/rss/category/articles.rss",
+            "categoryActualPosts": 1,
+            "categoryLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        }
+    },
+    "additionalFeedChannels": {
+        "exampleChannelAlias": {
+            "channelName": "Sustainable Sanitation Alliance",
+            "channelDescription": "The description of the news channel",
+            "channelFeedUrl": "https://www.susana.org/api/newscircle/rss/channels/example_channel_alias.rss",
+            "channelActualPosts": 1,
+            "channelLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+        }
+    }
+}

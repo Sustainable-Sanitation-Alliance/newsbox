@@ -1,0 +1,56 @@
+<rss version="2.0">
+<channel>
+	<title>Example Sanitation Newsfeed (Channel Title)</title>
+	<link>https://www.susana.org/</link>
+	<description>An example newsfeed for testing and development only. Note: contains only placeholder data.</description>
+	<language>en-us</language>
+	<pubDate>Tue, 18 Apr 2023 10:21:03 GMT</pubDate>
+	<lastBuildDate>Tue, 18 Apr 2023 10:21:03 GMT</lastBuildDate>
+	<generator>Joomla RSS</generator>
+	<managingEditor>info@susana.org</managingEditor>
+	<webMaster>info@dotwerkstatt.de</webMaster>
+
+	<item>
+		<title>The Extremes of Good and Evil (1)</title>
+		<link>https://www.susana.org/en/</link>
+		<description>
+		But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. 
+		</description>
+		<pubDate>Mon, 10 Apr 2023 12:12:12 CEST</pubDate>
+		<source>SUSANA</source>
+		<author>Mia Wong</author>
+		<category>Events</category> 
+		<guid>https://www.susana.org/webitem123</guid>
+		<enclosure url="https://www.susana.org/images/rss_example.jpg" length="18287" type="image/jpeg" />
+	</item>
+
+	<item>
+		<title>The Extremes of Good and Evil (2)</title>
+		<link>https://www.rural-water-supply.net/</link>
+		<description>
+		No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. 
+		</description>
+		<pubDate>Tue, 04 Apr 2023 22:00:00 PDT</pubDate>
+		<source>SUSANA</source>
+		<author>Tarryn Campbell-Gillies</author>
+		<category>Resources</category> 
+		<guid>https://www.susana.org/webitem124</guid>
+		<enclosure url="https://www.susana.org/images/rss_example.jpg" length="18287" type="image/jpeg" />
+	</item>
+
+	<item>
+		<title>The Extremes of Good and Evil (3)</title>
+		<link>https://fsm-alliance.org/</link>
+		<description>
+		Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? 
+		</description>
+		<pubDate>Fri, 31 Mar 2023 07:15:00 LHDT</pubDate>
+		<source>SUSANA</source>
+		<author>Maureen M. Smith</author>
+		<category>Events</category> 
+		<guid>https://www.susana.org/webitem124</guid>
+		<enclosure url="https://www.susana.org/images/rss_example.jpg" length="18287" type="image/jpeg" />
+	</item>
+
+</channel>
+</rss>
