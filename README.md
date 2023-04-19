@@ -13,7 +13,10 @@ In this documentation, will show you to
 + design your feed according to our guidelines and examples  
 + participate and create your own feed   
   
-  
+                       
+					                   
+									     
+										   
 # 1. Integration of the feed
 
 You can find the current feed at the following URL and thus embed it in an existing web application.  
