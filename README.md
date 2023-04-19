@@ -136,7 +136,7 @@ Timestamp of the latest post inside the channel feed
   
   
     
-## 1.4. Targeted API calls to categories and channels
+## 1.4. Targeted API calls to categories, channels and sources
 
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
@@ -145,7 +145,10 @@ https://newsbox.susana.org/rss/category/[categoryName].rss
 
 And for the channels the scheme:  
 https://newsbox.susana.org/rss/channels/[example_channel_alias].rss  
-  
+
+Querying a feed by partner organization is also possible via the identifier of the organization and is done according to the following scheme:  
+https://newsbox.susana.org/rss/sources/[orgAbbrev].rss
+   
     
 	  
 	  
