@@ -10,28 +10,31 @@
     ],
     "organisations": {
         "SUSANA": {
-            "name": "Sustainable Sanitation Alliance",
-            "abbrev": "SuSanA",
-            "url": "https://www.susana.org/",
-            "logo": "https://www.susana.org/images/rss_example.jpg",
-            "actualPosts": 3,
-            "lastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+            "orgName": "Sustainable Sanitation Alliance",
+            "orgAbbrev": "SuSanA",
+            "orgDescription": "",
+            "orgUrl": "https://www.susana.org/",
+            "orgLogo": "https://www.susana.org/images/rss_example.jpg",
+            "orgActualPosts": 3,
+            "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
         },
         "RWSN": {
-            "name": "Rural Water Supply Network",
-            "abbrev": "RWSN",
-            "url": "https://www.rural-water-supply-network.org/",
-            "logo": "https://www.susana.org/images/rss_example.jpg",
-            "actualPosts": 4,
-            "lastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+            "orgName": "Rural Water Supply Network",
+            "orgAbbrev": "RWSN",
+            "orgDescription": "",
+            "orgUrl": "https://www.rural-water-supply-network.org/",
+            "orgLogo": "https://www.susana.org/images/rss_example.jpg",
+            "orgActualPosts": 4,
+            "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
         },
         "FSMA": {
-            "name": "Faecal Sludge Management Alliance",
-            "abbrev": "FSMA",
-            "url": "https://fsm-alliance.org",
-            "logo": "https://www.susana.org/images/rss_example.jpg",
-            "actualPosts": 2,
-            "lastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
+            "orgName": "Faecal Sludge Management Alliance",
+            "orgAbbrev": "FSMA",
+            "orgDescription": "",
+            "orgUrl": "https://fsm-alliance.org",
+            "orgLogo": "https://www.susana.org/images/rss_example.jpg",
+            "orgActualPosts": 2,
+            "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
         }
     },
     "categories": {
