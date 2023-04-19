@@ -12,7 +12,7 @@ In this documentation, you will learn
 + understand the basic structure of the RSS  
 + add useful elements to the feed using the configuration file  
 + how to design your feed according to our guidelines and examples  
-+ create your own feed for  
++ how to participate and create your own feed   
   
   
 # Integration of the feed
@@ -78,7 +78,13 @@ The configuration file provides important information about the Sanitation Netwo
 
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
----
+---  
+
+# Design the newsfeed
+
+
+
+---  
 
 # Provide your feed
 You can participate in the RSS feed of the network by providing a corresponding RSS feed within your own website under a fixed URL, which will then be integrated through the interface of the NCN.  
