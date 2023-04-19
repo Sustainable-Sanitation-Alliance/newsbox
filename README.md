@@ -25,7 +25,9 @@ https://api.susana.org/newscircle/config.json
 Until the API is released in early May 2023, please use the example files provided in this documentation for development purposes
 - example_output.rss
 - example_config.json
-  
+
+## Header of the feed
+In the header of a channel you will find the title, a short description and the time of the last update of the channel.
   
 ## Feed items
 The following information is available within an item of a channel
