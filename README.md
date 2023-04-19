@@ -37,7 +37,7 @@ https://validator.w3.org/feed/docs/rss2.html
 
 - - -  
   
-You can find the current feed at the following URL and thus embed it in an existing web application.  
+You can find the **current feed at the following URL** and thus embed it in an existing web application.  
 https://newsbox.susana.org/rss/sanitation_circle.rss
 
 The extended description and documentation of available channels and categories can be found in the current configuration file  
