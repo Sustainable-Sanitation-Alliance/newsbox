@@ -92,8 +92,26 @@ You can also retrieve the categories and channels named in the current config.js
 
 # Design the newsfeed
 
+The following fields should be displayed within the feed on the web page.
+Source (Abbreviation of the partner organization) 
+Publishing date 
+Author of the article / post
+Title
+Description
 
+We recommend a presentation according to the following scheme:
 
+[ pubDate ] by [ author ]  
+[ title ]  
+[ source ]  • [ description ]  
+  
+The description should be shortened to 350 characters. Either the title is to be linked or the read more button at the end of the post. The link to the website providing the entry is mandatory! If you want the category to be displayed as well, we recommend the following scheme.  
+  
+[ pubDate ] by [ author ]  
+[ Title ]  
+[ SOURCE ]  • [ category ] - [ Description ]  
+  
+  
 ---  
 
 # Provide your feed
