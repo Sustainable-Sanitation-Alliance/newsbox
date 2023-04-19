@@ -15,7 +15,7 @@ In this documentation, will show you to
 + participate and create your own feed   
                          									     
 										   
-# 1. Integration of the feed
+# 1. Integration of the newsbox into your website
 
 You can find the current feed at the following URL and thus embed it in an existing web application.  
 https://newsbox.susana.org/rss/sanitation_circle.rss
@@ -131,7 +131,7 @@ https://newsbox.susana.org/rss/channels/[example_channel_alias].rss
 	  
 ---  
 
-# 2. Designing the newsfeed output
+# 2. Designing the newsbox output
 
 The following fields should be displayed within the feed on the web page.
 Source (Abbreviation of the partner organization) 
@@ -163,7 +163,7 @@ SUSANA • Events: But I must explain to you how all this mistaken idea of denou
   
 ---  
 
-# 3. Provide your feed
+# 3. Provide your feed to the newsbox
 You can participate in the RSS feed of the network by providing a corresponding RSS feed within your own website under a fixed URL, which will then be integrated through the interface of the NCN.  
   
 To do this, contact the SuSanA secretariat in advance by mail (info@susana.org) to check whether your organization meets the requirements and criteria to be included in the network newsfeed.   
