@@ -8,11 +8,10 @@ We ask for the following copyright link within the display of the Network Circle
 Source: Sanitation Network Circle Feed, provided by SuSanA - https://www.susana.org**
   
 ---    
-In this documentation, you will learn  
-+ understand the basic structure of the RSS  
-+ add useful elements to the feed using the configuration file  
-+ how to design your feed according to our guidelines and examples  
-+ how to participate and create your own feed   
+In this documentation, will show you to  
++ understand the basic structure of the RSS and add useful elements to the feed using the configuration file  
++ design your feed according to our guidelines and examples  
++ participate and create your own feed   
   
   
 # 1. Integration of the feed
