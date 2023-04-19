@@ -233,3 +233,8 @@ Unique URL by which your entry can be identified, this should not change during 
   
 ### enclosure ###  
 Optional linking of an image / video file via a URL within the respective entry. You can find further notes at: https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt 
+
+---
+## 3.3 Publishing your RSS feed to the newsbox
+
+After you have created your RSS feed, you submit the news feed to the SuSanA secretariat by e-mail. After verification, the feed will be added to the Network Circle Newsbox.
