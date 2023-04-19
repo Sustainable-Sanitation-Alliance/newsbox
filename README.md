@@ -29,7 +29,7 @@ Until the API is released in early May 2023, please use the example files provid
 ## Header of the feed
 In the header of a channel you will find the title, a short description and the time of the last update of the channel.
   
-## Feed items
+## Item tags inside the feed
 The following information is available within an item of a channel
   
 ### title ### 
@@ -46,15 +46,14 @@ Description of the entry. We recommend a maximum length of 350 characters to avo
 Time of publication of the feed entry. Note: The output of the channel is already sorted in descending order by this date field. 
 
 ### source ###
-Abbreviation of the organization providing the entry.  
-**Important note: The abbreviation used here describes the organisation through which the entry was made available. The links and descriptions of the organisations can be found in the extended configuration parameters of config.json**.
+Abbreviation of the organization providing the entry. **Important note:** The abbreviation used here describes the organisation through which the entry was made available. The links and descriptions of the organisations can be found in the extended configuration parameters of config.json.
 
 ### author ###
 Name of the author who wrote the article. We ask that this be taken into account in the output.
 
 ### category ###
-Category of the entry. You can use it to filter the output of the feed on your website by these categories.  
-**Note: All available categories can be found in config.json. You can also generate a separate explicit RSS feed for each category using a URL. Use the following syntax in the call https://api.susana.org/newscircle/rss/category/{category}.rss. You can also find all URLs within the configuration file.**
+Category of the entry. You can use it to filter the output of the feed on your website by these categories. **Note:** All available categories can be found in config.json. You can also generate a separate explicit RSS feed for each category using a URL. Use the following syntax in the call https://api.susana.org/newscircle/rss/category/{category}.rss.  
+You can also find all URLs within the configuration file.
 
 ### guid ###
 Unique URL with ID, with the help of which they avoid duplication in the output and caching of feeds.
