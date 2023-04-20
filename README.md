@@ -207,7 +207,7 @@ Date of the last update of your feed
     
 	  
 ## 3.2. Item tags inside your RSS feed
-The following information is available within an item of a channel
+The following information needs to be provided within an item of your channel
   
 **title**  
 Title of the feed entry as it should be displayed on the external web pages. Maximum length of 256 characters 
