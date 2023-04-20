@@ -209,13 +209,13 @@ Date of the last update of your feed
 ## 3.2. Item tags inside your RSS feed
 The following information is available within an item of a channel
   
-**title** 
+**title**  
 Title of the feed entry as it should be displayed on the external web pages. Maximum length of 256 characters 
 
-**link** 
+**link**  
 URL of the web page to which the read more button should point.
 
-**description** 
+**description**  
 Description of the entry. We recommend a maximum length of 350 characters to avoid automatic shortening of the description text on the external websites where the feed is embedded.  
 **Important note: HTML & script elements will be removed.**
 
