@@ -219,22 +219,22 @@ URL of the web page to which the read more button should point.
 Description of the entry. We recommend a maximum length of 350 characters to avoid automatic shortening of the description text on the external websites where the feed is embedded.  
 **Important note: HTML & script elements will be removed.**
 
-**pubDate** 
+**pubDate**  
 Time of publication of the feed entry. Note: The output of the channel is already sorted in descending order by this date field.  
   
-**source** 
+**source**  
 This field is ignored and output based on our configuration file in the NCN. You can use this field to provide source information for other feed collections.  
   
-**author** 
+**author**  
 Name of the author who wrote the article. We ask that this be taken into account in the output.  
   
-**category** 
+**category**  
 Enter here in which of the available categories your entry should be published. Please refer to the current config.json for the available categories.  
   
-### guid ###
+**guid**  
 Unique URL by which your entry can be identified, this should not change during the life of the entry or be applied to other entries.  
   
-### enclosure ###  
+**enclosure**    
 Optional linking of an image / video file via a URL within the respective entry. You can find further notes at: https://cyber.harvard.edu/rss/rss.html#ltenclosuregtSubelementOfLtitemgt 
 
 ## 3.3 Publishing your RSS feed to the newsbox
