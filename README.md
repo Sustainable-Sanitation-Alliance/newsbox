@@ -38,10 +38,10 @@ https://validator.w3.org/feed/docs/rss2.html
 - - -  
   
 You can find the **current feed at the following URL** and thus embed it in an existing web application.  
-https://newsbox.susana.org/rss/sanitation_circle.rss
+https://blog.susana.org/newsbox/sanitation_circle.rss
 
 The extended description and documentation of available channels and categories can be found in the current configuration file  
-https://newsbox.susana.org/config.json
+https://blog.susana.org/newsbox/config.json
 
 Until the API is released in early May 2023, please use the example files provided in this documentation for development purposes
 - example_output.rss
@@ -73,7 +73,7 @@ Abbreviation of the organization providing the entry. **Important note:** The ab
 Name of the author who wrote the article. We ask that this be taken into account in the output.
 
 ### category ###
-Category of the entry. You can use it to filter the output of the feed on your website by these categories. **Note:** All available categories can be found in config.json. You can also generate a separate explicit RSS feed for each category using a URL. Use the following syntax in the call https://newsbox.susana.org/rss/category/{category}.rss.  
+Category of the entry. You can use it to filter the output of the feed on your website by these categories. **Note:** All available categories can be found in config.json. You can also generate a separate explicit RSS feed for each category using a URL. Use the following syntax in the call https://blog.susana.org/newsbox/category/{category}.rss.  
 You can also find all URLs within the configuration file.
 
 ### guid ###
@@ -95,7 +95,7 @@ Here you can find the name and a description [orgDescription] of the partner org
   
 In addition, the number of current posts [orgActualPosts] can be found within the NCN feed from this source and also the timestamp [orgLastBuildDate] of the last update.  
       
-In addition, it is possible to retrieve an explicit source via URL. newsbox.susana.org/rss/{source}.rss.  
+In addition, it is possible to retrieve an explicit source via URL. https://blog.susana.org/newsbox/source/{source}.rss.  
 
 
 ### Categories
@@ -141,13 +141,13 @@ Timestamp of the latest post inside the channel feed
 You can also retrieve the categories and channels named in the current config.json as a separate feed.
 
 To do this, use the category as the file name for the RSS feed within the URL according to the following scheme.  
-https://newsbox.susana.org/rss/category/[categoryName].rss
+https://blog.susana.org/newsbox/category/[categoryName].rss
 
 And for the channels the scheme:  
-https://newsbox.susana.org/rss/channels/[example_channel_alias].rss  
+https://blog.susana.org/newsbox/channel/[example_channel_alias].rss  
 
 Querying a feed by partner organization is also possible via the identifier of the organization and is done according to the following scheme:  
-https://newsbox.susana.org/rss/sources/[orgAbbrev].rss
+https://blog.susana.org/newsbox/source/[orgAbbrev].rss
    
     
 	  
@@ -191,7 +191,7 @@ You can participate in the RSS feed of the network by providing a corresponding 
   
 To do this, contact the SuSanA secretariat in advance by mail (info@susana.org) to check whether your organization meets the requirements and criteria to be included in the network newsfeed.   
   
-After completion and provision of your RSS, it will be added to the configuration file and played out globally on all participating websites. For this we need your logo, which we provide and store in predefined formats on our web service.
+After completion please validate your RSS feed under https://validator.w3.org/feed/check.cgi. It will be added to the configuration file and played out globally on all participating websites. For this we need your logo, which we provide and store in predefined formats on our web service.
 
 
 
