@@ -5,7 +5,7 @@ With the Sanitation Network Circle NE, news can be exchanged within the network 
 ---   
 **Copyright notice: 
 We ask for the following copyright link within the display of the Network Circle Newsbox.  
-Source: Sanitation Network Circle Newsbox, provided by SuSanA - https://newsbox.susana.org**
+Source: Sanitation Network Circle Newsbox, provided by SuSanA - https://www.susana.org**
   
 ---    
 In this documentation, will show you to  
