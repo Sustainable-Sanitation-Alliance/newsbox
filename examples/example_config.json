@@ -1,41 +1,46 @@
 {
-    "product": "NCN Network Circle Newsbox",
-    "version": 0.4,
-    "description": "actual configruation file for the network newsbox circle",
-    "feedUrl": "https://newsbox.susana.org/rss/feed.rss",
-    "organisationAbbrevations": [
-        "SUSANA",
-        "RWSN",
-        "FSMA"
-    ],
-    "organisations": {
-        "SUSANA": {
-            "orgName": "Sustainable Sanitation Alliance",
-            "orgAbbrev": "SuSanA",
-            "orgDescription": "",
-            "orgUrl": "https://www.susana.org/",
-            "orgLogo": "https://www.susana.org/images/rss_example.jpg",
-            "orgActualPosts": 3,
-            "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
-        },
-        "RWSN": {
-            "orgName": "Rural Water Supply Network",
-            "orgAbbrev": "RWSN",
-            "orgDescription": "",
-            "orgUrl": "https://www.rural-water-supply-network.org/",
-            "orgLogo": "https://www.susana.org/images/rss_example.jpg",
-            "orgActualPosts": 4,
-            "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
-        },
-        "SSWM": {
-            "orgName": "Sustainable Sanitation and Water Management Toolbox",
-            "orgAbbrev": "https://sswm.info",
-            "orgDescription": "",
-            "orgUrl": "https://fsm-alliance.org",
-            "orgLogo": "https://www.susana.org/images/rss_example.jpg",
-            "orgActualPosts": 2,
-            "orgLastBuildDate": "Tue, 18 Apr 2023 10:21:03 GMT"
-        }
+	"product": "NCN Network Circle Newsbox",
+	"version": 0.62,
+	"description": "Actual configruation file for the network newsbox circle",
+	"feedUrl": "https://blog.susana.org/newsbox/sanitation_circle.rss",
+	"organisationAbbrevations": [
+		"SuSanA",
+		"RWSN",
+		"SSWM"
+	],
+	"organisations": {
+		"SuSanA": {
+			"orgName": "Sustainable Sanitation Alliance",
+			"orgAbbrev": "SuSanA",
+			"orgDescription": "",
+			"orgUrl": "https://www.susana.org/",
+			"feedUrl": "https://www.susana.org/en/?option=com_susana_messaging&view=feed",
+			"orgLogo": "https://www.susana.org/images/partner-network/logo_susana.png",
+			"singlefeedUrl": "",
+			"orgActualPosts": 5,
+			"orgLastBuildDate": "Thu, 17 Aug 2023 17:45:33 GMT"
+		},
+		"RWSN": {
+			"orgName": "Rural Water Supply Network",
+			"orgAbbrev": "RWSN",
+			"orgDescription": "",
+			"orgUrl": "https://www.rural-water-supply-network.org/",
+			"orgLogo": "https://www.susana.org/images/partner-network/rwsn.png",
+			"singlefeedUrl": "",
+			"orgActualPosts": 4,
+			"orgLastBuildDate": "Thu, 17 Aug 2023 17:45:33 GMT"
+		},
+		"SSWM": {
+			"orgName": "Sustainable Sanitation and Water Management Toolbox",
+			"orgAbbrev": "SSWM",
+			"orgDescription": "",
+			"orgUrl": "https://www.sswm.info",
+			"feedUrl": "https://sswm.info/sswm-newsbox-feed.rss",
+			"orgLogo": "https://www.susana.org/images/partner-network/sswm.png",
+			"singlefeedUrl": "",
+			"orgActualPosts": 5,
+			"orgLastBuildDate": "Thu, 17 Aug 2023 17:45:33 GMT"
+		}
     },
     "categories": {
         "news": {
